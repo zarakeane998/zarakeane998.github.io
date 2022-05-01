@@ -1,0 +1,16 @@
+.navbar-custom {
+  background-color: red;
+}
+
+.navbar-custom .navbar-brand {
+  color: black;
+  font-weight: bold;
+}
+
+.navbar-custom .nav-link {
+  color: white;
+}
+
+.footer-text {
+	color: white;
+}
