@@ -13,5 +13,39 @@
 
 .footer-text {
 	color: white;
+  padding: 10px;
+}
 
-	
+.row {
+  padding-top: 20px;
+}
+
+.col img {
+  max-height: 220px;
+}
+
+.col h4 {
+  margin-top: 10px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.players .card {
+  margin-bottom: 20px;
+}
+
+.players .card h5 {
+  padding-top: 10px;
+}
+
+.merchandise .card {
+  margin-bottom: 20px;
+}
+
+
+
+
